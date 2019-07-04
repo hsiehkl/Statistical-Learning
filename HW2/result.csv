@@ -1,0 +1,10 @@
+Case,Method,x_continue,x_binary,y,α,RMSE
+1,ymean,not used,not used,keep,0,928.8095109332162
+2A,OLS,keep,keep,keep,0,692.2891271362123
+2B,OLS,keep,keep,de-mean,0,692.2891271362292
+2C,OLS,std.,std.,de-mean,0,692.2891271372
+3A,Ridge,keep,keep,keep,10,660.56129
+3B,Ridge,std.,keep,de-mean,20,645.516812
+3C,Ridge,keep,keep,de-mean,10,660.56129
+3D,Ridge,std.,std.,de-mean,100,588.793466
+4,Lasso,std.,keep,de-mean,10,643.383848
