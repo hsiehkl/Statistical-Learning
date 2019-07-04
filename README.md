@@ -2,6 +2,7 @@
 
 NTU 107-02
 Statistical Learning：Theory and Applications
+
 Course Information：[Syllabus](https://nol2.aca.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=725%20U3550&class=&dpt_code=7250&ser_no=39458&semester=107-2&lang=EN)
 
 ## Final Project - Pet Finder
@@ -11,7 +12,7 @@ Course Information：[Syllabus](https://nol2.aca.ntu.edu.tw/nol/coursesearch/pri
 
 ## Kaggle Competition
 + Classify industry and occupation by analying text data
-+ [Kaggle Page](https://www.kaggle.com/c/2019sl) Team: 老師笑話好笑喔
++ [Kaggle Page](https://www.kaggle.com/c/2019sl) (Team: 老師笑話好笑喔)
 + [Code](https://github.com/hsiehkl/Statistical-Learning/blob/master/Kaggle%20Competition/Final.ipynb)
 
 ## HW1: K-nearest-neighbors Model
